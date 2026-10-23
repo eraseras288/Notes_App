@@ -2,7 +2,7 @@
 
 **Stack:** Vue 3, TypeScript, Express, PostgreSQL (Neon).
 
-- **Frontend:** [Open App]([FRONTEND_URL](https://notes-app-yalr.vercel.app/))
+- **Frontend:** [Open App](https://notes-app-yalr.vercel.app/)
 - **Backend:** [API](https://notes-app-tan-beta-10.vercel.app/)
 - **Database:** Neon PostgreSQL
 
