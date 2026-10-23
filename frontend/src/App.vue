@@ -299,7 +299,7 @@ aside .item .x:hover { color: #ff9b91; background: none; }
 aside .themes button { flex: 1; text-align: center; border: 1px solid var(--ink-line); padding: 6px 4px; font-size: 13px; }
 
 /* main */
-main { padding: 28px; max-width: 820px; width: 100%; display: flex; flex-direction: column; gap: 16px; }
+main { padding: 28px; max-width: 1000px; width: 100%; margin: 0 auto; display: flex; flex-direction: column; gap: 16px; }
 input, textarea, select { font: inherit; padding: 9px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--input-bg); color: var(--text); width: 100%; }
 input[type="checkbox"] { width: auto; accent-color: var(--accent); }
 textarea { resize: vertical; }
